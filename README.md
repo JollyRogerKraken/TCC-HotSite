@@ -1,23 +1,22 @@
-# portifolio
-Meu portfólio criado com o objetivo de mostrar meus projetos e currículo .
+# Hotsite TCC
+Esse foi um hotsite criado para o trabalho de TCC, que constituia criar um produto, e desenvolver um teaser um hotsite mostrando tudo que foi aprendido durante o curso de Técnico Multimídia .
 
-## 🖼 Screenshot das telas da aplicação 
-## 🖼 Tela sobre mim
+## 🖼 Screenshot da tela da aplicação 
 
- <img src="images/sobremim.png" alt="Sobre mim"> 
+ <img src="https://github.com/JollyRogerKraken/TCC-HotSite/blob/main/img/0-1.jpeg"> 
+ 
+ <img src="https://github.com/JollyRogerKraken/TCC-HotSite/blob/main/img/0-2.jpeg">
+ 
+ <img src="https://github.com/JollyRogerKraken/TCC-HotSite/blob/main/img/0-3.jpeg">
 
-## 🖼 Tela dos meus seviços que ofereço 
+## 💾 Alguns Arquivos para ver
 
- <img src="images/meuservico.png" alt="Tela de meus Servuços"> 
+<a href="https://github.com/JollyRogerKraken/TCC-HotSite/tree/main/img">
+   <img src="https://github.com/JollyRogerKraken/TCC-HotSite/blob/main/img/intro.png" width="500px;" alt="Image do Kraken" />
+   <br />
+   <sub><p>Pasta de algumas imagens</p></sub>
+</a>
 
-## 🖼 Tela dos meus projetos
-
- <img src="images/projetos.png" alt="Tela de meus projetos"> 
-
-## 🖼 Tela para os meus contatos
-
- <img src="images/contatos.png" alt="Entrar em contato comigo">
-  
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -26,30 +25,35 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <br>
 <p align="left">
 
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
+  <a>
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
       alt="HTML5"
       width="120"
       height="120"
     />
   </a>
 
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
+  <a>
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
       alt="Css3"
       width="120"
       height="120"
     />
   </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-  >
+  <a>
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
       alt="javascript"
+      width="120"
+      height="120"
+    />
+  </a>
+ <a>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+      alt="bootstrap"
       width="120"
       height="120"
     />
@@ -58,3 +62,20 @@ As seguintes ferramentas foram usadas na construção do projeto:
 </p>
 
 <br>
+
+## 🐙 Autor
+
+<table align="center">
+    <tr>
+        <td align="center">
+            <a href="https://github.com/JollyRogerKraken">
+                <img src="https://avatars.githubusercontent.com/u/93014302?v=4" width="150px;" alt="Image do Kraken" />
+                <br />
+                <sub><b>Kraken</b></sub>
+            </a>
+        </td>    
+    </tr>
+</table>
+<h4 align="center">
+   Feito com 🖤 e 🤬 by  <a href="https://beacons.ai/jollyroger" target="_blank"> Kraken </a>
+</h4>
