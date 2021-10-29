@@ -14,7 +14,7 @@ Esse foi um hotsite criado para o trabalho de TCC, que constituia criar um produ
 <a href="https://github.com/JollyRogerKraken/TCC-HotSite/tree/main/img">
    <img src="https://github.com/JollyRogerKraken/TCC-HotSite/blob/main/img/intro.png" width="500px;" alt="Image do Kraken" />
    <br />
-   <sub><p>Pasta de algumas imagens</p></sub>
+   <sub><p>Pasta com algumas imagens do produto</p></sub>
 </a>
 
 ## 🛠 Tecnologias
